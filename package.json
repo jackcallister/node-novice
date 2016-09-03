@@ -1,0 +1,22 @@
+{
+  "name": "node-novice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarsbe/node-novice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarsbe/node-novice/issues"
+  },
+  "homepage": "https://github.com/jarsbe/node-novice",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
